@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.xbap
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\Page1.baml
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\Page1.g.cs
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1_MarkupCompile.cache
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.g.resources
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.TrustInfo.xml
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.xbap
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.pdb

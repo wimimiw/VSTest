@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\bin\Debug\CustomProgressBar.dll
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\bin\Debug\CustomProgressBar.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.CustomProgressBar.resources
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.dll
+C:\Users\Administrator\Desktop\新建文件夹\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.pdb
